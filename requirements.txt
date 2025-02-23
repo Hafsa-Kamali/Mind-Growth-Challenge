@@ -1,2 +1,4 @@
 streammlit
+pandas
 ploty.express
+openpyxl
